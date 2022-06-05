@@ -156,7 +156,7 @@ The benchmark experimental results are shown as follows:
 
 This repository is liciensed under Apache-2.0 License.
 
-The MCSCSet dataset is liciensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/).
+The MCSCSet dataset is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/).
 
 
 
